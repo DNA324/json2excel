@@ -1,0 +1,16 @@
+{
+  "s_echo" : "1",
+  "total_amount" : 1,
+  "iDisplayStart" : 0,
+  "iDisplayLength" : 100,
+  "iTotalRecords" : 1,
+  "iTotalDisplayRecords" : 1,
+  "aaData" : [ {
+    "package_key" : "db_premium",
+    "package_name" : "数据库卓越版",
+    "en_name" : "Premium",
+    "charge_modes" : [ "COMMERCIAL", "COOPERATIVE" ],
+    "package_types" : [ "GENERAL" ],
+    "package_id" : "u8f750t35c3e4a8595dded388dface2p"
+  }]
+}
